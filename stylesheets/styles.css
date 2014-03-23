@@ -11,9 +11,10 @@
 
 .ss-navigate {
 	font-family: Copse;
-	font-size: 80px;
+	font-size: 60px;
 	border: hidden;
 	padding: 0px;
+	margin-top: 20px;
 }
 
 .ss-q-short {
@@ -22,7 +23,7 @@
 	font-size: 36px;
 	font-weight: 300;
 	height: 50px;
-	width: 600px;
+	width: 640px;
 	margin-top: 20px;
 }
 
@@ -44,7 +45,7 @@ body, img {
 	padding: 0px;
 	margin-left: auto;
 	margin-right: auto;
-	width: 600px;
+	width: 640px;
 }
 
 footer {
