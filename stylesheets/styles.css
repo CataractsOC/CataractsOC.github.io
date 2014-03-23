@@ -6,7 +6,7 @@
 }
 
 .ss-form-entry {
-	margin-bottom:20px;
+	margin-bottom:45px;
 }
 
 .ss-navigate {
@@ -14,7 +14,8 @@
 	font-size: 60px;
 	border: hidden;
 	padding: 0px;
-	margin-top: 20px;
+	margin-top: 40px;
+	margin-bottom: 40px;
 }
 
 .ss-q-short {
@@ -23,8 +24,11 @@
 	font-size: 36px;
 	font-weight: 300;
 	height: 50px;
-	width: 640px;
+	width: 615px;
 	margin-top: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 0px;
 }
 
 .ss-q-title {
@@ -39,6 +43,11 @@
 	margin-bottom: 20px;
 }
 
+#content {
+	border: #999 dashed 3px;
+	padding: 10px;
+}
+
 body, img {
 	font-family: Lato, Georgia, "Times New Roman", Times, serif;
 	font-size: 40px;
@@ -50,7 +59,7 @@ body, img {
 
 footer {
 	margin-top: 30px;
-	margin-bottom: 40px;
+	margin-bottom: 60px;
 	font-family: Lato;
 	font-style: italic;
 	font-size: 30px;
