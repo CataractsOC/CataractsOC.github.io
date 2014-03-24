@@ -14,12 +14,12 @@
 	font-size: 60px;
 	border: hidden;
 	padding: 0px;
-	margin-top: 40px;
+	margin-top: 15px;
 	margin-bottom: 40px;
 }
 
 .ss-q-short {
-	border:dotted 2px;
+	border: dotted 2px;
 	font-family: Lato;
 	font-size: 36px;
 	font-weight: 300;
@@ -70,6 +70,7 @@ footer {
 
 ul {
 	list-style-type:none;
+	
 }
 
 @media print, screen and (max-width: px) {
