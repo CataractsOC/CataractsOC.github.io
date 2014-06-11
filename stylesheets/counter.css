@@ -1,0 +1,30 @@
+.counter-wrapper{
+	font-family:sans-serif;
+	font-size:1em;
+}
+
+.digit-con{
+	height:5.75em;
+	overflow:hidden;
+	display:inline-block;
+	margin-left:.5em;
+}
+.digit-con span{
+	background-color:#0CA67F;
+	width:.75em;
+	display:block;
+	text-align:center;
+	font-size:5em;
+	color:#fff;
+	position:relative;
+	top:0;
+}
+.comma{
+	color:#0CA67F;
+	font-size:4.2em;
+}
+
+.error{
+	color:red;
+	display:none;
+}
